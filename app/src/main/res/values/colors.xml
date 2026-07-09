@@ -1,0 +1,10 @@
+<resources>
+    <color name="app_bg">#F6F7F2</color>
+    <color name="panel">#FFFFFF</color>
+    <color name="ink">#17201B</color>
+    <color name="muted">#627067</color>
+    <color name="line">#DDE4DC</color>
+    <color name="green">#1D7F5F</color>
+    <color name="green_dark">#11523E</color>
+    <color name="gold">#B07A1B</color>
+</resources>
