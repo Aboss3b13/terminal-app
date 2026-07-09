@@ -4,10 +4,11 @@ Mobile-first Android control panel for a Linux VPS.
 
 The app connects over SSH/SFTP and turns common server work into simple screens:
 
+- Android-style app launcher for Codex, Terminal, Files, System, Docker, and Settings
 - Quick command buttons for status, disk, Docker, services, and custom commands
-- File browser using SFTP
-- Dedicated Codex screen with a configurable start command
-- Saved connection settings on the device
+- File drawer using SFTP
+- Dedicated Codex app with install/update, doctor, version, and prompt controls
+- Saved connection settings on the device, kept inside Settings
 
 ## Security
 
